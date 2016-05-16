@@ -1,0 +1,28 @@
+name: HUGS
+favicon: null
+layout_spectrum: 0.43039898737333715
+typography_spectrum: 0.1925563255790621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.806807080982253
+  lightness: 0.5346042967867106
+  saturation: 0.9098519221879542
+  rhythmicContrast: 0.7619465140160173
+purpose: []
