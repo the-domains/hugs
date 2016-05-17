@@ -2,21 +2,21 @@
     <channel>
         <title><![CDATA[HUGS]]></title>
         <description><![CDATA[HUGS]]></description>
-        <link>http://www.hugs.world/</link>
+        <link>https://thegrid.ai/hugs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 16:02:42 GMT</lastBuildDate>
-        <atom:link href="http://www.hugs.world/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 16:11:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hugs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Hugs General]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00431fb0-091c-4f8e-a776-d4e7a684c36f.gif">]]></description>
-            <link>http://www.hugs.world/we-are-uniting-and-open-sourcing-the-worlds-best-solutions/index.html</link>
+            <link>https://thegrid.ai/hugs/we-are-uniting-and-open-sourcing-the-worlds-best-solutions/index.html</link>
             <guid isPermaLink="false">44f69326-c65d-4b44-b15f-f45990dd3923</guid>
-            <pubDate>Tue, 17 May 2016 16:02:21 GMT</pubDate>
+            <pubDate>Tue, 17 May 2016 16:11:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BRINGING CLEAN WATER TO THE AMAZON.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31cdb71b-6ce1-442d-8316-8cdbc4a87dee.jpg">]]></description>
-            <link>http://www.hugs.world/bringing-clean-water-to-the-amazon/index.html</link>
+            <link>https://thegrid.ai/hugs/bringing-clean-water-to-the-amazon/index.html</link>
             <guid isPermaLink="false">665266c7-a7de-4d90-9796-5e100c30e8ac</guid>
             <pubDate>Tue, 17 May 2016 15:57:12 GMT</pubDate>
         </item>
