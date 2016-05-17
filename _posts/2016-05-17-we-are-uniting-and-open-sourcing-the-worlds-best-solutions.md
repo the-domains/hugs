@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We are uniting and open sourcing the world’s best solutions! We are uniting groups, individuals and organizations who are fighting for a better future! The mission of HUGS is to research, document, and implement non-violent solutions toward our goal of global sustainability. We feel that there is a pressing need for solutions to many of the earth’s undeniable problems in the areas of food, water, shelter, education, currency, spirituality, health and more. HUGS is bringing many creative minds and dedicated hearts together to tackle these issues in innovative ways. HUGS is a next generation type of charity, that still keeps its feet firmly planted in the rich soils of Mother Earth. Pioneering a new open source charity model, HUGS will revolutionize the way that people think of a charity organization by making sure to be transparent, and taking into account the viewpoints of all our supporters.'
-datePublished: '2016-05-17T16:13:32.491Z'
-dateModified: '2016-05-17T16:13:07.731Z'
+datePublished: '2016-05-17T16:14:17.260Z'
+dateModified: '2016-05-17T16:13:57.683Z'
 title: ''
 author:
   - name: ''
