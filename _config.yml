@@ -1,7 +1,7 @@
 name: HUGS
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4997
+layout_spectrum: 0.48871
+typography_spectrum: 0.56474
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#f78e1f'
     - '#7582bf'
     - '#5fd1ea'
-  brandStrength: 0.25
+  brandStrength: 0.1875
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
