@@ -2,6 +2,7 @@ name: HUGS
 favicon: null
 layout_spectrum: 0.48871
 typography_spectrum: 0.56474
+title: Hugs Grid Beta
 cta:
   domain: null
   bucket: null
