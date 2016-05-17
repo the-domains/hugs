@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[HUGS]]></title>
-        <description><![CDATA[HUGS]]></description>
+        <title><![CDATA[Hugs Grid Beta]]></title>
+        <description><![CDATA[Hugs Grid Beta]]></description>
         <link>https://thegrid.ai/hugs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 16:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 16:13:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hugs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hugs General]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00431fb0-091c-4f8e-a776-d4e7a684c36f.gif">]]></description>
             <link>https://thegrid.ai/hugs/we-are-uniting-and-open-sourcing-the-worlds-best-solutions/index.html</link>
             <guid isPermaLink="false">44f69326-c65d-4b44-b15f-f45990dd3923</guid>
-            <pubDate>Tue, 17 May 2016 16:11:08 GMT</pubDate>
+            <pubDate>Tue, 17 May 2016 16:12:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BRINGING CLEAN WATER TO THE AMAZON.]]></title>
